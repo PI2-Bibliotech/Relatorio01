@@ -1,0 +1,20 @@
+\changetocdepth {4}
+\select@language {brazil}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase {Introdu\IeC {\c c}\IeC {\~a}o}}{4}{chapter.1}
+\contentsline {section}{\numberline {1.1}Quest\IeC {\~o}es de Pesquisa}{4}{section.1.1}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Desenvolvimento }}{5}{chapter.2}
+\contentsline {section}{\numberline {2.1}Primeira Quest\IeC {\~a}o}{5}{section.2.1}
+\contentsline {section}{\numberline {2.2}Segunda Quest\IeC {\~a}o}{5}{section.2.2}
+\contentsline {section}{\numberline {2.3}Terceira Quest\IeC {\~a}o}{5}{section.2.3}
+\contentsline {section}{\numberline {2.4}Quarta Quest\IeC {\~a}o}{6}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Inicia\IeC {\c c}\IeC {\~a}o}{6}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}Diagn\IeC {\'o}stico}{6}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2.4.3}Planejamento}{6}{subsection.2.4.3}
+\contentsline {subsection}{\numberline {2.4.4}A\IeC {\c c}\IeC {\~a}o}{7}{subsection.2.4.4}
+\contentsline {subsection}{\numberline {2.4.5}Aprendizado}{7}{subsection.2.4.5}
+\contentsline {section}{\numberline {2.5}Quinta Quest\IeC {\~a}o}{7}{section.2.5}
+\vspace {\cftbeforechapterskip }
