@@ -35,62 +35,64 @@
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Prot\IeC {\'o}tipos}}{17}{chapter.4}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {Gerenciamento da Comunica\IeC {\c c}\IeC {\~a}o e Vers\IeC {\~o}es de Artefatos}}{22}{chapter.5}
-\contentsline {section}{\numberline {5.1}Ferramentas de Comunica\IeC {\c c}\IeC {\~a}o}{22}{section.5.1}
-\contentsline {section}{\numberline {5.2}Reuni\IeC {\~o}es}{22}{section.5.2}
+\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {Gerenciamento dos Riscos}}{22}{chapter.5}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {6}\MakeTextUppercase {Solu\IeC {\c c}\IeC {\~a}o Proposta}}{23}{chapter.6}
-\contentsline {section}{\numberline {6.1}Requisitos do Sistema}{23}{section.6.1}
+\contentsline {chapter}{\chapternumberline {6}\MakeTextUppercase {Gerenciamento da Comunica\IeC {\c c}\IeC {\~a}o e Vers\IeC {\~o}es de Artefatos}}{24}{chapter.6}
+\contentsline {section}{\numberline {6.1}Ferramentas de Comunica\IeC {\c c}\IeC {\~a}o}{24}{section.6.1}
+\contentsline {section}{\numberline {6.2}Reuni\IeC {\~o}es}{24}{section.6.2}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {7}\MakeTextUppercase {Gerenciamento do Projeto}}{25}{chapter.7}
-\contentsline {section}{\numberline {7.1}Responsabilidades}{25}{section.7.1}
-\contentsline {section}{\numberline {7.2}Estrutura Anal\IeC {\'\i }tica do Projeto EAP}{26}{section.7.2}
-\contentsline {section}{\numberline {7.3}Cronograma}{28}{section.7.3}
+\contentsline {chapter}{\chapternumberline {7}\MakeTextUppercase {Solu\IeC {\c c}\IeC {\~a}o Proposta}}{25}{chapter.7}
+\contentsline {section}{\numberline {7.1}Requisitos do Sistema}{25}{section.7.1}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {8}\MakeTextUppercase {Estrutura}}{29}{chapter.8}
-\contentsline {section}{\numberline {8.1}Conceito}{29}{section.8.1}
-\contentsline {subsection}{\numberline {8.1.1}Correntes, Correias e Cabos}{29}{subsection.8.1.1}
-\contentsline {subsection}{\numberline {8.1.2}Cremalheiras}{29}{subsection.8.1.2}
-\contentsline {subsection}{\numberline {8.1.3}Fusos}{29}{subsection.8.1.3}
-\contentsline {subsection}{\numberline {8.1.4}Atuadores Lineares}{30}{subsection.8.1.4}
-\contentsline {section}{\numberline {8.2}Materiais}{30}{section.8.2}
-\contentsline {subsection}{\numberline {8.2.1}Cases}{30}{subsection.8.2.1}
-\contentsline {subsection}{\numberline {8.2.2}P\IeC {\'o}rtico}{30}{subsection.8.2.2}
-\contentsline {subsection}{\numberline {8.2.3}Fuso}{30}{subsection.8.2.3}
-\contentsline {subsection}{\numberline {8.2.4}Cremalheira e Engrenagem}{31}{subsection.8.2.4}
-\contentsline {section}{\numberline {8.3}Descri\IeC {\c c}\IeC {\~a}o do produto}{31}{section.8.3}
+\contentsline {chapter}{\chapternumberline {8}\MakeTextUppercase {Gerenciamento do Projeto}}{27}{chapter.8}
+\contentsline {section}{\numberline {8.1}Responsabilidades}{27}{section.8.1}
+\contentsline {section}{\numberline {8.2}Estrutura Anal\IeC {\'\i }tica do Projeto EAP}{28}{section.8.2}
+\contentsline {section}{\numberline {8.3}Cronograma}{30}{section.8.3}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {9}\MakeTextUppercase {Sistema Eletr\IeC {\^o}nico}}{34}{chapter.9}
-\contentsline {section}{\numberline {9.1}Dispositivo Raspberry PI}{34}{section.9.1}
-\contentsline {section}{\numberline {9.2}Sistema de Controle}{35}{section.9.2}
-\contentsline {subsection}{\numberline {9.2.1}Solu\IeC {\c c}\IeC {\~a}o 1: Atuador}{35}{subsection.9.2.1}
-\contentsline {subsection}{\numberline {9.2.2}Solu\IeC {\c c}\IeC {\~a}o 2: Bra\IeC {\c c}o Rob\IeC {\'o}tico}{35}{subsection.9.2.2}
-\contentsline {subsubsection}{\numberline {9.2.2.1}Movimenta\IeC {\c c}\IeC {\~a}o do Bra\IeC {\c c}o Rob\IeC {\'o}tico}{35}{subsubsection.9.2.2.1}
-\contentsline {subsubsection}{\numberline {9.2.2.2}Servo Motor}{36}{subsubsection.9.2.2.2}
-\contentsline {subsubsection}{\numberline {9.2.2.3}Modul\IeC {\c c}ao PWM}{36}{subsubsection.9.2.2.3}
-\contentsline {subsubsection}{\numberline {9.2.2.4}Arduino MEGA}{37}{subsubsection.9.2.2.4}
-\contentsline {subsection}{\numberline {9.2.3}Solu\IeC {\c c}\IeC {\~a}o Escolhida}{38}{subsection.9.2.3}
-\contentsline {section}{\numberline {9.3}Sistema de Comunica\IeC {\c c}\IeC {\~a}o}{38}{section.9.3}
-\contentsline {subsection}{\numberline {9.3.1}Comunica\IeC {\c c}\IeC {\~a}o UART}{38}{subsection.9.3.1}
-\contentsline {subsection}{\numberline {9.3.2}Leitura do C\IeC {\'o}digo de Barras}{38}{subsection.9.3.2}
-\contentsline {section}{\numberline {9.4}Refer\IeC {\^e}ncia}{38}{section.9.4}
+\contentsline {chapter}{\chapternumberline {9}\MakeTextUppercase {Estrutura}}{31}{chapter.9}
+\contentsline {section}{\numberline {9.1}Conceito}{31}{section.9.1}
+\contentsline {subsection}{\numberline {9.1.1}Correntes, Correias e Cabos}{31}{subsection.9.1.1}
+\contentsline {subsection}{\numberline {9.1.2}Cremalheiras}{31}{subsection.9.1.2}
+\contentsline {subsection}{\numberline {9.1.3}Fusos}{31}{subsection.9.1.3}
+\contentsline {subsection}{\numberline {9.1.4}Atuadores Lineares}{32}{subsection.9.1.4}
+\contentsline {section}{\numberline {9.2}Materiais}{32}{section.9.2}
+\contentsline {subsection}{\numberline {9.2.1}Cases}{32}{subsection.9.2.1}
+\contentsline {subsection}{\numberline {9.2.2}P\IeC {\'o}rtico}{32}{subsection.9.2.2}
+\contentsline {subsection}{\numberline {9.2.3}Fuso}{32}{subsection.9.2.3}
+\contentsline {subsection}{\numberline {9.2.4}Cremalheira e Engrenagem}{33}{subsection.9.2.4}
+\contentsline {section}{\numberline {9.3}Descri\IeC {\c c}\IeC {\~a}o do produto}{33}{section.9.3}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {10}\MakeTextUppercase {Introdu\IeC {\c c}\IeC {\~a}o}}{40}{chapter.10}
-\contentsline {section}{\numberline {10.1}Contexto}{40}{section.10.1}
-\contentsline {section}{\numberline {10.2}Problema}{41}{section.10.2}
-\contentsline {section}{\numberline {10.3}Justificativa}{42}{section.10.3}
-\contentsline {section}{\numberline {10.4}Objetivo}{42}{section.10.4}
-\contentsline {section}{\numberline {10.5}Objetivos Espec\IeC {\'\i }ficos}{42}{section.10.5}
+\contentsline {chapter}{\chapternumberline {10}\MakeTextUppercase {Sistema Eletr\IeC {\^o}nico}}{36}{chapter.10}
+\contentsline {section}{\numberline {10.1}Dispositivo Raspberry PI}{36}{section.10.1}
+\contentsline {section}{\numberline {10.2}Sistema de Controle}{37}{section.10.2}
+\contentsline {subsection}{\numberline {10.2.1}Solu\IeC {\c c}\IeC {\~a}o 1: Atuador}{37}{subsection.10.2.1}
+\contentsline {subsection}{\numberline {10.2.2}Solu\IeC {\c c}\IeC {\~a}o 2: Bra\IeC {\c c}o Rob\IeC {\'o}tico}{37}{subsection.10.2.2}
+\contentsline {subsubsection}{\numberline {10.2.2.1}Movimenta\IeC {\c c}\IeC {\~a}o do Bra\IeC {\c c}o Rob\IeC {\'o}tico}{37}{subsubsection.10.2.2.1}
+\contentsline {subsubsection}{\numberline {10.2.2.2}Servo Motor}{38}{subsubsection.10.2.2.2}
+\contentsline {subsubsection}{\numberline {10.2.2.3}Modul\IeC {\c c}ao PWM}{38}{subsubsection.10.2.2.3}
+\contentsline {subsubsection}{\numberline {10.2.2.4}Arduino MEGA}{39}{subsubsection.10.2.2.4}
+\contentsline {subsection}{\numberline {10.2.3}Solu\IeC {\c c}\IeC {\~a}o Escolhida}{40}{subsection.10.2.3}
+\contentsline {section}{\numberline {10.3}Sistema de Comunica\IeC {\c c}\IeC {\~a}o}{40}{section.10.3}
+\contentsline {subsection}{\numberline {10.3.1}Comunica\IeC {\c c}\IeC {\~a}o UART}{40}{subsection.10.3.1}
+\contentsline {subsection}{\numberline {10.3.2}Leitura do C\IeC {\'o}digo de Barras}{40}{subsection.10.3.2}
+\contentsline {section}{\numberline {10.4}Refer\IeC {\^e}ncia}{40}{section.10.4}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {11}\MakeTextUppercase {Desenvolvimento }}{44}{chapter.11}
-\contentsline {section}{\numberline {11.1}Primeira Quest\IeC {\~a}o}{44}{section.11.1}
-\contentsline {section}{\numberline {11.2}Segunda Quest\IeC {\~a}o}{44}{section.11.2}
-\contentsline {section}{\numberline {11.3}Terceira Quest\IeC {\~a}o}{44}{section.11.3}
-\contentsline {section}{\numberline {11.4}Quarta Quest\IeC {\~a}o}{45}{section.11.4}
-\contentsline {subsection}{\numberline {11.4.1}Inicia\IeC {\c c}\IeC {\~a}o}{45}{subsection.11.4.1}
-\contentsline {subsection}{\numberline {11.4.2}Diagn\IeC {\'o}stico}{45}{subsection.11.4.2}
-\contentsline {subsection}{\numberline {11.4.3}Planejamento}{45}{subsection.11.4.3}
-\contentsline {subsection}{\numberline {11.4.4}A\IeC {\c c}\IeC {\~a}o}{46}{subsection.11.4.4}
-\contentsline {subsection}{\numberline {11.4.5}Aprendizado}{46}{subsection.11.4.5}
-\contentsline {section}{\numberline {11.5}Quinta Quest\IeC {\~a}o}{46}{section.11.5}
+\contentsline {chapter}{\chapternumberline {11}\MakeTextUppercase {Introdu\IeC {\c c}\IeC {\~a}o}}{42}{chapter.11}
+\contentsline {section}{\numberline {11.1}Contexto}{42}{section.11.1}
+\contentsline {section}{\numberline {11.2}Problema}{43}{section.11.2}
+\contentsline {section}{\numberline {11.3}Justificativa}{44}{section.11.3}
+\contentsline {section}{\numberline {11.4}Objetivo}{44}{section.11.4}
+\contentsline {section}{\numberline {11.5}Objetivos Espec\IeC {\'\i }ficos}{44}{section.11.5}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {12}\MakeTextUppercase {Desenvolvimento }}{46}{chapter.12}
+\contentsline {section}{\numberline {12.1}Primeira Quest\IeC {\~a}o}{46}{section.12.1}
+\contentsline {section}{\numberline {12.2}Segunda Quest\IeC {\~a}o}{46}{section.12.2}
+\contentsline {section}{\numberline {12.3}Terceira Quest\IeC {\~a}o}{46}{section.12.3}
+\contentsline {section}{\numberline {12.4}Quarta Quest\IeC {\~a}o}{47}{section.12.4}
+\contentsline {subsection}{\numberline {12.4.1}Inicia\IeC {\c c}\IeC {\~a}o}{47}{subsection.12.4.1}
+\contentsline {subsection}{\numberline {12.4.2}Diagn\IeC {\'o}stico}{47}{subsection.12.4.2}
+\contentsline {subsection}{\numberline {12.4.3}Planejamento}{47}{subsection.12.4.3}
+\contentsline {subsection}{\numberline {12.4.4}A\IeC {\c c}\IeC {\~a}o}{48}{subsection.12.4.4}
+\contentsline {subsection}{\numberline {12.4.5}Aprendizado}{48}{subsection.12.4.5}
+\contentsline {section}{\numberline {12.5}Quinta Quest\IeC {\~a}o}{48}{section.12.5}
 \vspace {\cftbeforechapterskip }
