@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.3.14)  31 MAR 2017 20:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.3.14)  31 MAR 2017 20:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1182,7 +1182,7 @@ l.14
 (./tcc.toc [3
 
 ] [4])) (./editaveis/textual/doc_visao.tex [5]
-<figuras/descricao_problema1.png, id=216, 437.635pt x 217.81375pt>
+<figuras/descricao_problema1.png, id=228, 437.635pt x 217.81375pt>
 File: figuras/descricao_problema1.png Graphic file (type png)
 
 <use figuras/descricao_problema1.png>
@@ -1190,7 +1190,7 @@ Package pdftex.def Info: figuras/descricao_problema1.png used on input line 14.
 
 (pdftex.def)             Requested size: 284.45937pt x 141.57724pt.
 
-<figuras/descricao_problema2.png, id=217, 439.6425pt x 182.6825pt>
+<figuras/descricao_problema2.png, id=229, 439.6425pt x 182.6825pt>
 File: figuras/descricao_problema2.png Graphic file (type png)
 
 <use figuras/descricao_problema2.png>
@@ -1198,7 +1198,7 @@ Package pdftex.def Info: figuras/descricao_problema2.png used on input line 21.
 
 (pdftex.def)             Requested size: 285.76424pt x 118.7422pt.
 
-<figuras/descricao_problema3.png, id=218, 439.6425pt x 217.81375pt>
+<figuras/descricao_problema3.png, id=230, 439.6425pt x 217.81375pt>
 File: figuras/descricao_problema3.png Graphic file (type png)
 
 <use figuras/descricao_problema3.png>
@@ -1212,7 +1212,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 [6
 
  <./figuras/descricao_problema1.png> <./figuras/descricao_problema2.png>]
-<figuras/descricao_problema4.png, id=226, 435.6275pt x 215.80624pt>
+<figuras/descricao_problema4.png, id=238, 435.6275pt x 215.80624pt>
 File: figuras/descricao_problema4.png Graphic file (type png)
 
 <use figuras/descricao_problema4.png>
@@ -1220,7 +1220,7 @@ Package pdftex.def Info: figuras/descricao_problema4.png used on input line 35.
 
 (pdftex.def)             Requested size: 283.15451pt x 140.27238pt.
 
-<figuras/descricao_usuarios_soft.png, id=227, 537.00626pt x 256.96pt>
+<figuras/descricao_usuarios_soft.png, id=239, 537.00626pt x 256.96pt>
 File: figuras/descricao_usuarios_soft.png Graphic file (type png)
 
 <use figuras/descricao_usuarios_soft.png>
@@ -1232,7 +1232,7 @@ Package pdftex.def Info: figuras/descricao_usuarios_soft.png used on input line
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [7 <./figuras/descricao_problema3.png> <./figuras/descricao_problema4.png>]
-<figuras/necessidades_soft.png, id=234, 543.02875pt x 457.71pt>
+<figuras/necessidades_soft.png, id=246, 543.02875pt x 457.71pt>
 File: figuras/necessidades_soft.png Graphic file (type png)
 
 <use figuras/necessidades_soft.png>
@@ -1243,7 +1243,7 @@ Package pdftex.def Info: figuras/necessidades_soft.png used on input line 58.
 [9]
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <24.88> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 1.
- <figuras/arquitetura_1.png, id=245, 795.97375pt x 149.55875pt>
+ <figuras/arquitetura_1.png, id=257, 795.97375pt x 149.55875pt>
 File: figuras/arquitetura_1.png Graphic file (type png)
 
 <use figuras/arquitetura_1.png>
@@ -1253,7 +1253,7 @@ Package pdftex.def Info: figuras/arquitetura_1.png used on input line 21.
 
 ] [11 <./figuras/arquitetura_1.png (PNG copy)>] [12]) (./editaveis/textual/doc_
 modelo_caso_uso.tex [13]
-<figuras/caso_uso.png, id=278, 864.98157pt x 767.86874pt>
+<figuras/caso_uso.png, id=290, 864.98157pt x 767.86874pt>
 File: figuras/caso_uso.png Graphic file (type png)
 
 <use figuras/caso_uso.png>
@@ -1263,21 +1263,21 @@ Package pdftex.def Info: figuras/caso_uso.png used on input line 7.
 
  <./figuras/caso_uso.png>] [15])
 (./editaveis/textual/prototipo_soft.tex [16]
-<figuras/prototipo1.png, id=294, 1008.76875pt x 379.4175pt>
+<figuras/prototipo1.png, id=306, 1008.76875pt x 379.4175pt>
 File: figuras/prototipo1.png Graphic file (type png)
 
 <use figuras/prototipo1.png>
 Package pdftex.def Info: figuras/prototipo1.png used on input line 8.
 (pdftex.def)             Requested size: 403.50035pt x 151.7643pt.
 
-<figuras/prototipo2.png, id=295, 1014.79124pt x 371.88937pt>
+<figuras/prototipo2.png, id=307, 1014.79124pt x 371.88937pt>
 File: figuras/prototipo2.png Graphic file (type png)
 
 <use figuras/prototipo2.png>
 Package pdftex.def Info: figuras/prototipo2.png used on input line 17.
 (pdftex.def)             Requested size: 405.9093pt x 148.75311pt.
 
-<figuras/prototipo3.png, id=296, 1025.33063pt x 377.91188pt>
+<figuras/prototipo3.png, id=308, 1025.33063pt x 377.91188pt>
 File: figuras/prototipo3.png Graphic file (type png)
 
 <use figuras/prototipo3.png>
@@ -1290,14 +1290,14 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 [17
 
  <./figuras/prototipo1.png> <./figuras/prototipo2.png>]
-<figuras/prototipo4.png, id=305, 1007.26312pt x 441.14813pt>
+<figuras/prototipo4.png, id=318, 1007.26312pt x 441.14813pt>
 File: figuras/prototipo4.png Graphic file (type png)
 
 <use figuras/prototipo4.png>
 Package pdftex.def Info: figuras/prototipo4.png used on input line 35.
 (pdftex.def)             Requested size: 402.89812pt x 176.45612pt.
 
-<figuras/prototipo5.png, id=306, 1014.79124pt x 475.7775pt>
+<figuras/prototipo5.png, id=319, 1014.79124pt x 475.7775pt>
 File: figuras/prototipo5.png Graphic file (type png)
 
 <use figuras/prototipo5.png>
@@ -1308,14 +1308,14 @@ Package pdftex.def Info: figuras/prototipo5.png used on input line 44.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [18 <./figuras/prototipo3.png> <./figuras/prototipo4.png>]
-<figuras/prototipo6.png, id=316, 1013.28563pt x 379.4175pt>
+<figuras/prototipo6.png, id=328, 1013.28563pt x 379.4175pt>
 File: figuras/prototipo6.png Graphic file (type png)
 
 <use figuras/prototipo6.png>
 Package pdftex.def Info: figuras/prototipo6.png used on input line 53.
 (pdftex.def)             Requested size: 405.30708pt x 151.7643pt.
 
-<figuras/prototipo7.png, id=317, 1017.8025pt x 382.42876pt>
+<figuras/prototipo7.png, id=329, 1017.8025pt x 382.42876pt>
 File: figuras/prototipo7.png Graphic file (type png)
 
 <use figuras/prototipo7.png>
@@ -1326,21 +1326,21 @@ Package pdftex.def Info: figuras/prototipo7.png used on input line 60.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [19 <./figuras/prototipo5.png> <./figuras/prototipo6.png>]
-<figuras/prototipo8.png, id=326, 1016.29688pt x 376.40625pt>
+<figuras/prototipo8.png, id=338, 1016.29688pt x 376.40625pt>
 File: figuras/prototipo8.png Graphic file (type png)
 
 <use figuras/prototipo8.png>
 Package pdftex.def Info: figuras/prototipo8.png used on input line 67.
 (pdftex.def)             Requested size: 406.51155pt x 150.55983pt.
 
-<figuras/prototipo9.png, id=327, 1017.8025pt x 383.93437pt>
+<figuras/prototipo9.png, id=339, 1017.8025pt x 383.93437pt>
 File: figuras/prototipo9.png Graphic file (type png)
 
 <use figuras/prototipo9.png>
 Package pdftex.def Info: figuras/prototipo9.png used on input line 76.
 (pdftex.def)             Requested size: 407.1138pt x 153.57101pt.
 
-<figuras/prototipo10.png, id=328, 1017.8025pt x 427.5975pt>
+<figuras/prototipo10.png, id=340, 1017.8025pt x 427.5975pt>
 File: figuras/prototipo10.png Graphic file (type png)
 
 <use figuras/prototipo10.png>
@@ -1351,7 +1351,7 @@ Package pdftex.def Info: figuras/prototipo10.png used on input line 85.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [20 <./figuras/prototipo7.png> <./figuras/prototipo8.png> <./figuras/prototipo9
-.png>] <figuras/prototipo11.png, id=337, 1013.28563pt x 438.13687pt>
+.png>] <figuras/prototipo11.png, id=349, 1013.28563pt x 438.13687pt>
 File: figuras/prototipo11.png Graphic file (type png)
 
 <use figuras/prototipo11.png>
@@ -1362,7 +1362,7 @@ Package pdftex.def Info: figuras/prototipo11.png used on input line 94.
 
 LaTeX Warning: Citation `pmbok2004' on page 22 undefined on input line 3.
 
-<figuras/risco1.png, id=346, 611.28375pt x 160.6pt>
+<figuras/risco1.png, id=358, 611.28375pt x 160.6pt>
 File: figuras/risco1.png Graphic file (type png)
  <use figuras/risco1.png>
 Package pdftex.def Info: figuras/risco1.png used on input line 17.
@@ -1371,7 +1371,7 @@ Package pdftex.def Info: figuras/risco1.png used on input line 17.
 
 LaTeX Warning: Citation `pmbok2004' on page 22 undefined on input line 25.
 
-<figuras/risco2.png, id=347, 636.3775pt x 416.55624pt>
+<figuras/risco2.png, id=359, 636.3775pt x 416.55624pt>
 File: figuras/risco2.png Graphic file (type png)
 
 <use figuras/risco2.png>
@@ -1380,7 +1380,7 @@ Package pdftex.def Info: figuras/risco2.png used on input line 29.
  [22
 
  <./figuras/risco1.png>]
-<figuras/risco3.png, id=353, 606.265pt x 381.425pt>
+<figuras/risco3.png, id=365, 606.265pt x 381.425pt>
 File: figuras/risco3.png Graphic file (type png)
  <use figuras/risco3.png>
 Package pdftex.def Info: figuras/risco3.png used on input line 39.
@@ -1395,7 +1395,7 @@ Overfull \hbox (284.67615pt too wide) in paragraph at lines 11--19
 ) (./editaveis/textual/solucao_proposta.tex [24
 
 ]
-<figuras/requisitos.png, id=365, 657.45625pt x 438.63875pt>
+<figuras/requisitos.png, id=377, 657.45625pt x 438.63875pt>
 File: figuras/requisitos.png Graphic file (type png)
 
 <use figuras/requisitos.png>
@@ -1420,7 +1420,7 @@ Overfull \hbox (741.11424pt too wide) in paragraph at lines 14--22
 
 [27
 
-] <figuras/eap.png, id=381, 1884.03876pt x 519.9425pt>
+] <figuras/eap.png, id=393, 1884.03876pt x 519.9425pt>
 File: figuras/eap.png Graphic file (type png)
 
 <use figuras/eap.png>
@@ -1430,12 +1430,152 @@ Package pdftex.def Info: figuras/eap.png used on input line 47.
 
 LaTeX Warning: Float too large for page by 76.93547pt on input line 50.
 
-[28] [29 <./figuras/eap.png (PNG copy)>]) (./editaveis/textual/Estrutura.tex
+[28] [29 <./figuras/eap.png (PNG copy)>]) (./editaveis/textual/metodologia.tex
 [30
 
-] [31
+]
 
-] [32] <figuras/screen_1.png, id=404, 889.82437pt x 578.16pt>
+LaTeX Warning: Citation `pmbok2004' on page 31 undefined on input line 3.
+
+<figuras/fluxograma_metodologia.png, id=408, 907.89188pt x 289.08pt>
+File: figuras/fluxograma_metodologia.png Graphic file (type png)
+
+<use figuras/fluxograma_metodologia.png>
+Package pdftex.def Info: figuras/fluxograma_metodologia.png used on input line 
+9.
+(pdftex.def)             Requested size: 590.12273pt x 187.89977pt.
+
+Overfull \hbox (135.12273pt too wide) in paragraph at lines 9--10
+ [][] 
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 17.
+(/usr/share/texmf/tex/latex/lm/omslmr.fd
+File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 17.
+ [31
+
+ <./figuras/fluxograma_metodologia.png>]) (./editaveis/textual/gereciamento_cus
+tos.tex [32]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 10.
+
+
+Overfull \hbox (45.18861pt too wide) in paragraph at lines 14--42
+ [][] 
+ []
+
+) (./editaveis/textual/alimentacao.tex [33
+
+] [34]
+<figuras/fluxograma.jpg, id=428, 725.71124pt x 113.42375pt>
+File: figuras/fluxograma.jpg Graphic file (type jpg)
+
+<use figuras/fluxograma.jpg>
+Package pdftex.def Info: figuras/fluxograma.jpg used on input line 9.
+(pdftex.def)             Requested size: 580.56978pt x 90.7391pt.
+
+Overfull \hbox (125.56978pt too wide) in paragraph at lines 9--10
+ [][] 
+ []
+
+<figuras/tabela_escolha_do_motor.jpg, id=429, 624.08156pt x 421.575pt>
+File: figuras/tabela_escolha_do_motor.jpg Graphic file (type jpg)
+
+<use figuras/tabela_escolha_do_motor.jpg>
+Package pdftex.def Info: figuras/tabela_escolha_do_motor.jpg used on input line
+ 23.
+(pdftex.def)             Requested size: 499.26593pt x 337.26045pt.
+
+Overfull \hbox (44.26593pt too wide) in paragraph at lines 23--24
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[35
+
+ <./figuras/fluxograma.jpg>]
+<figuras/formula1.jpg, id=435, 134.00063pt x 21.07875pt>
+File: figuras/formula1.jpg Graphic file (type jpg)
+
+<use figuras/formula1.jpg>
+Package pdftex.def Info: figuras/formula1.jpg used on input line 32.
+(pdftex.def)             Requested size: 107.20062pt x 16.86299pt.
+
+<figuras/formula2.jpg, id=436, 171.64125pt x 19.57312pt>
+File: figuras/formula2.jpg Graphic file (type jpg)
+
+<use figuras/formula2.jpg>
+Package pdftex.def Info: figuras/formula2.jpg used on input line 39.
+(pdftex.def)             Requested size: 137.31316pt x 15.6585pt.
+
+<figuras/formula3.jpg, id=437, 102.3825pt x 18.82031pt>
+File: figuras/formula3.jpg Graphic file (type jpg)
+
+<use figuras/formula3.jpg>
+Package pdftex.def Info: figuras/formula3.jpg used on input line 48.
+(pdftex.def)             Requested size: 81.9061pt x 15.05624pt.
+
+<figuras/formula4.jpg, id=438, 97.11281pt x 15.05624pt>
+File: figuras/formula4.jpg Graphic file (type jpg)
+
+<use figuras/formula4.jpg>
+Package pdftex.def Info: figuras/formula4.jpg used on input line 57.
+(pdftex.def)             Requested size: 77.69034pt x 12.045pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[36 <./figuras/tabela_escolha_do_motor.jpg> <./figuras/formula1.jpg> <./figuras
+/formula2.jpg> <./figuras/formula3.jpg>]
+<figuras/formula5.jpg, id=448, 84.315pt x 34.62938pt>
+File: figuras/formula5.jpg Graphic file (type jpg)
+
+<use figuras/formula5.jpg>
+Package pdftex.def Info: figuras/formula5.jpg used on input line 66.
+(pdftex.def)             Requested size: 67.45207pt x 27.70352pt.
+
+<figuras/formula7.jpg, id=449, 94.85437pt x 22.58438pt>
+File: figuras/formula7.jpg Graphic file (type jpg)
+
+<use figuras/formula7.jpg>
+Package pdftex.def Info: figuras/formula7.jpg used on input line 76.
+(pdftex.def)             Requested size: 75.88358pt x 18.0675pt.
+
+<figuras/formula8.jpg, id=450, 94.10156pt x 21.07875pt>
+File: figuras/formula8.jpg Graphic file (type jpg)
+
+<use figuras/formula8.jpg>
+Package pdftex.def Info: figuras/formula8.jpg used on input line 84.
+(pdftex.def)             Requested size: 75.28134pt x 16.86299pt.
+
+<figuras/Motor.jpg, id=451, 271.0125pt x 221.32687pt>
+File: figuras/Motor.jpg Graphic file (type jpg)
+ <use figuras/Motor.jpg>
+Package pdftex.def Info: figuras/Motor.jpg used on input line 95.
+(pdftex.def)             Requested size: 216.81029pt x 177.06172pt.
+
+<figuras/tabela_unipolar.jpg, id=452, 232.61906pt x 97.86563pt>
+File: figuras/tabela_unipolar.jpg Graphic file (type jpg)
+
+<use figuras/tabela_unipolar.jpg>
+Package pdftex.def Info: figuras/tabela_unipolar.jpg used on input line 102.
+(pdftex.def)             Requested size: 186.09549pt x 78.29259pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[37 <./figuras/formula4.jpg> <./figuras/formula5.jpg> <./figuras/formula7.jpg> 
+<./figuras/formula8.jpg> <./figuras/Motor.jpg>])
+(./editaveis/textual/Estrutura.tex [38 <./figuras/tabela_unipolar.jpg>]
+[39
+
+] [40] <figuras/screen_1.png, id=476, 889.82437pt x 578.16pt>
 File: figuras/screen_1.png Graphic file (type png)
 
 <use figuras/screen_1.png>
@@ -1445,14 +1585,14 @@ Package pdftex.def Info: figuras/screen_1.png used on input line 52.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[33] <figuras/screen_2.png, id=409, 922.94812pt x 578.16pt>
+[41] <figuras/screen_2.png, id=481, 922.94812pt x 578.16pt>
 File: figuras/screen_2.png Graphic file (type png)
 
 <use figuras/screen_2.png>
 Package pdftex.def Info: figuras/screen_2.png used on input line 59.
 (pdftex.def)             Requested size: 369.1727pt x 231.2599pt.
 
-<figuras/screen_3.png, id=410, 666.99188pt x 523.9575pt>
+<figuras/screen_3.png, id=482, 666.99188pt x 523.9575pt>
 File: figuras/screen_3.png Graphic file (type png)
 
 <use figuras/screen_3.png>
@@ -1462,28 +1602,23 @@ Package pdftex.def Info: figuras/screen_3.png used on input line 67.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[34 <./figuras/screen_1.png> <./figuras/screen_2.png>])
-(./editaveis/textual/eletronico.tex [35 <./figuras/screen_3.png>]
+[42 <./figuras/screen_1.png> <./figuras/screen_2.png>])
+(./editaveis/textual/eletronico.tex [43 <./figuras/screen_3.png>]
 File: figuras/descricao_problema1.png Graphic file (type png)
 
 <use figuras/descricao_problema1.png>
 Package pdftex.def Info: figuras/descricao_problema1.png used on input line 9.
 (pdftex.def)             Requested size: 284.45937pt x 141.57724pt.
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 16.
- (/usr/share/texmf/tex/latex/lm/omslmr.fd
-File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 16.
-[36
+ [44
 
-] [37]
+] [45]
 File: figuras/descricao_problema1.png Graphic file (type png)
- <use figuras/descricao_problema1.png>
+
+<use figuras/descricao_problema1.png>
 Package pdftex.def Info: figuras/descricao_problema1.png used on input line 58.
 
 (pdftex.def)             Requested size: 284.45937pt x 141.57724pt.
- [38]
+ [46]
 File: figuras/descricao_problema1.png Graphic file (type png)
 
 <use figuras/descricao_problema1.png>
@@ -1496,7 +1631,7 @@ Package pdftex.def Info: figuras/descricao_problema1.png used on input line 84.
 
 (pdftex.def)             Requested size: 284.45937pt x 141.57724pt.
 
-[39]
+[47]
 File: figuras/descricao_problema1.png Graphic file (type png)
  <use figuras/descricao_problema1.png>
 Package pdftex.def Info: figuras/descricao_problema1.png used on input line 125
@@ -1506,35 +1641,35 @@ Package pdftex.def Info: figuras/descricao_problema1.png used on input line 125
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[40]) (./editaveis/textual/introducao.tex [41]
+[48]) (./editaveis/textual/introducao.tex [49]
 
-LaTeX Warning: Citation `melo2014' on page 42 undefined on input line 12.
+LaTeX Warning: Citation `melo2014' on page 50 undefined on input line 12.
 
 
-LaTeX Warning: Citation `santana2015' on page 42 undefined on input line 14.
+LaTeX Warning: Citation `santana2015' on page 50 undefined on input line 14.
 
-[42
+[50
 
 ]
 
-LaTeX Warning: Citation `fraga2011' on page 43 undefined on input line 16.
+LaTeX Warning: Citation `fraga2011' on page 51 undefined on input line 16.
 
 
-LaTeX Warning: Citation `santana2015' on page 43 undefined on input line 16.
+LaTeX Warning: Citation `santana2015' on page 51 undefined on input line 16.
 
 
-LaTeX Warning: Citation `santana2015' on page 43 undefined on input line 18.
+LaTeX Warning: Citation `santana2015' on page 51 undefined on input line 18.
 
 
-LaTeX Warning: Citation `fraga2011' on page 43 undefined on input line 18.
+LaTeX Warning: Citation `fraga2011' on page 51 undefined on input line 18.
 
 
-LaTeX Warning: Citation `fraga2011' on page 43 undefined on input line 20.
+LaTeX Warning: Citation `fraga2011' on page 51 undefined on input line 20.
 
 
-LaTeX Warning: Citation `fraga2011' on page 43 undefined on input line 22.
+LaTeX Warning: Citation `fraga2011' on page 51 undefined on input line 22.
 
-<figuras/tabela_1.png, id=470, 599.23875pt x 291.0875pt>
+<figuras/tabela_1.png, id=540, 599.23875pt x 291.0875pt>
 File: figuras/tabela_1.png Graphic file (type png)
 
 <use figuras/tabela_1.png>
@@ -1548,22 +1683,22 @@ Overfull \hbox (144.23729pt too wide) in paragraph at lines 28--29
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[43] [44 <./figuras/tabela_1.png>]) (./editaveis/textual/desenvolvimento.tex
-[45] [46
+[51] [52 <./figuras/tabela_1.png>]) (./editaveis/textual/desenvolvimento.tex
+[53] [54
 
-] [47])
+] [55])
 No file tcc.ind.
 
 AED: lastpage setting LastPage
-[48]
+[56]
 \tf@toc=\write5
 \openout5 = `tcc.toc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 42.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 42.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 45.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 45.
  (./tcc.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 42.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 42.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 45.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 45.
 
 
 LaTeX Warning: There were undefined references.
@@ -1571,13 +1706,13 @@ LaTeX Warning: There were undefined references.
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 42.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 45.
  ) 
 Here is how much of TeX's memory you used:
- 12944 strings out of 493029
- 189209 string characters out of 6136234
- 310999 words of memory out of 5000000
- 15970 multiletter control sequences out of 15000+600000
+ 13055 strings out of 493029
+ 191549 string characters out of 6136234
+ 312049 words of memory out of 5000000
+ 16032 multiletter control sequences out of 15000+600000
  71834 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,13n,38p,910b,521s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1596,8 +1731,8 @@ pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist
 , replaced by a fixed one
 
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/
-dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/sha
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dvip
+s/lm/lm-mathsy.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/sha
 re/texmf/fonts/type1/public/lm/lmbxi10.pfb></usr/share/texmf/fonts/type1/public
 /lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/tex
 mf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmri1
@@ -1606,10 +1741,10 @@ s/type1/public/lm/lmss10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss12.pfb
 ></usr/share/texmf/fonts/type1/public/lm/lmss17.pfb></usr/share/texmf/fonts/typ
 e1/public/lm/lmssbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso17.pfb><
 /usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb>
-Output written on tcc.pdf (49 pages, 2081464 bytes).
+Output written on tcc.pdf (57 pages, 2379692 bytes).
 PDF statistics:
- 847 PDF objects out of 1000 (max. 8388607)
- 731 compressed objects within 8 object streams
- 194 named destinations out of 1000 (max. 500000)
- 838 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 943 PDF objects out of 1000 (max. 8388607)
+ 806 compressed objects within 9 object streams
+ 221 named destinations out of 1000 (max. 500000)
+ 946 words of extra memory for PDF output out of 10000 (max. 10000000)
 
