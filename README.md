@@ -1,2 +1,5 @@
-# ex2-mps
-Report about MPS-br
+# Bibliotech Relatorio 01
+Compilar:
+
+ * latex tcc.tex
+ * pdflatex tcc 
