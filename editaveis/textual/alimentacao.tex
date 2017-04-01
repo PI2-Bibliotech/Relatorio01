@@ -13,7 +13,7 @@ Desta forma, o sistema de alimentação será então composto por um quadro de e
 
 Os componentes a serem instalados no quadro de proteção são Botão NA, botão NF, Cabo 4mm, Conectores e Fusível.
 
-\section{Motor}
+\subsection{Motor}
 A movimentação do robô nos eixos X e Z (considerando Y como profundidade) dependerá de motores, a qual o dimensionamento pode ser encontrado abaixo.
 
 No eixo Z será utilizado um fuso, e a escolha do motor pode ser realizada com base na tabela abaixo:
@@ -30,14 +30,14 @@ Já no eixo X, o dimensionamento do motor é feito com base nos seguintes cálcu
 \begin{figure}[!h]
 \centering
 \includegraphics[scale=0.8, angle = 360]{figuras/formula1}
-\caption[]{}
+\caption[]{Equação da força horizontal da engrenagem}
 \end{figure}
 \FloatBarrier
 
 \begin{figure}[!h]
 \centering
 \includegraphics[scale=0.8, angle = 360]{figuras/formula2}
-\caption[]{}
+\caption[]{Resolução - Equação da força horizontal da engrenagem}
 \end{figure}
 \FloatBarrier
 
@@ -46,7 +46,7 @@ O coeficiente de atrito estático foi determinado como sendo 0,12 ,devido ao con
 \begin{figure}[!h]
 \centering
 \includegraphics[scale=0.8, angle = 360]{figuras/formula3}
-\caption[]{}
+\caption[]{Equação do Torque}
 \end{figure}
 \FloatBarrier
 
@@ -55,7 +55,7 @@ O raio da base de movimento equivale a 0,1m. Portanto:
 \begin{figure}[!h]
 \centering
 \includegraphics[scale=0.8, angle = 360]{figuras/formula4}
-\caption[]{}
+\caption[]{Equação do Torque no eixo do motor}
 \end{figure}
 \FloatBarrier
 
@@ -64,7 +64,7 @@ A velocidade estipulada pelo escopo da carga é de 0,05 m/s. Sendo assim, têm-s
 \begin{figure}[!h]
 \centering
 \includegraphics[scale=0.8, angle = 360]{figuras/formula5}
-\caption[]{}
+\caption[]{Cálculo da rotação do eixo motor}
 \end{figure}
 \FloatBarrier
 
@@ -74,18 +74,11 @@ Por fim, RPS=0,08
 \begin{figure}[!h]
 \centering
 \includegraphics[scale=0.8, angle = 360]{figuras/formula7}
-\caption[]{}
+\caption[]{Potencia mecânica total}
 \end{figure}
 \FloatBarrier
 
-Finalizando, podemos obter a potência mecânica do sistema:
-\begin{figure}[!h]
-\centering
-\includegraphics[scale=0.8, angle = 360]{figuras/formula8}
-\caption[]{}
-\end{figure}
-\FloatBarrier
-
+Finalizando, a potência mecânica do sistema é 0.26W
 
 A escolha de um motor com torque aproximado à 
 32,64Kgf.cm por valores superiores é aconselhável, desta forma, o motor NEMA 23 com caixa de redução foi escolhido.
@@ -93,14 +86,14 @@ A escolha de um motor com torque aproximado à
 \begin{figure}[!h]
 \centering
 \includegraphics[scale=0.8, angle = 360]{figuras/Motor}
-\caption[]{}
+\caption[]{Motor Nema 23}
 \end{figure}
 \FloatBarrier
 
 \begin{figure}[!h]
 \centering
 \includegraphics[scale=0.8, angle = 360]{figuras/tabela_unipolar}
-\caption[]{}
+\caption[]{Especificações técnicas do motor(unipolar)}
 \end{figure}
 \FloatBarrier
 
