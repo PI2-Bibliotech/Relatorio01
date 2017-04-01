@@ -7,174 +7,122 @@
 \defcounter {refsection}{0}\relax 
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase {Integrantes do Projeto}}{5}{chapter.1}
+\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase {Integrantes do Projeto}}{4}{chapter.1}
 \defcounter {refsection}{0}\relax 
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Introdu\IeC {\c c}\IeC {\~a}o}}{6}{chapter.2}
+\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Introdu\IeC {\c c}\IeC {\~a}o}}{5}{chapter.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.1}Contexto}{6}{section.2.1}
+\contentsline {section}{\numberline {2.1}Contexto}{5}{section.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.2}Problema}{7}{section.2.2}
+\contentsline {section}{\numberline {2.2}Problema}{6}{section.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.3}Justificativa}{8}{section.2.3}
+\contentsline {section}{\numberline {2.3}Justificativa}{7}{section.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.4}Objetivo}{8}{section.2.4}
+\contentsline {section}{\numberline {2.4}Objetivo}{7}{section.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.5}Objetivos Espec\IeC {\'\i }ficos}{8}{section.2.5}
-\defcounter {refsection}{0}\relax 
-\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Metodologia}}{9}{chapter.3}
+\contentsline {section}{\numberline {2.5}Objetivos Espec\IeC {\'\i }ficos}{7}{section.2.5}
 \defcounter {refsection}{0}\relax 
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Gerenciamento do Projeto}}{13}{chapter.4}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.1}Responsabilidades}{13}{section.4.1}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.2}Estrutura Anal\IeC {\'\i }tica do Projeto EAP}{14}{section.4.2}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.3}Cronograma}{16}{section.4.3}
+\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Metodologia}}{8}{chapter.3}
 \defcounter {refsection}{0}\relax 
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {Solu\IeC {\c c}\IeC {\~a}o Proposta}}{17}{chapter.5}
+\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Gerenciamento do Projeto}}{12}{chapter.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.1}Requisitos do Sistema}{17}{section.5.1}
+\contentsline {section}{\numberline {4.1}Responsabilidades}{12}{section.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.2}Alimenta\IeC {\c c}\IeC {\~a}o}{18}{section.5.2}
+\contentsline {section}{\numberline {4.2}Estrutura Anal\IeC {\'\i }tica do Projeto EAP}{13}{section.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.2.1}Motor}{18}{subsection.5.2.1}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.3}Estrutura}{21}{section.5.3}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.3.1}Conceito}{21}{subsection.5.3.1}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.3.2}Materiais}{22}{subsection.5.3.2}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.3.3}Descri\IeC {\c c}\IeC {\~a}o do produto}{23}{subsection.5.3.3}
+\contentsline {section}{\numberline {4.3}Cronograma}{15}{section.4.3}
 \defcounter {refsection}{0}\relax 
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\chapternumberline {6}\MakeTextUppercase {Sistema Eletr\IeC {\^o}nico}}{25}{chapter.6}
+\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {Solu\IeC {\c c}\IeC {\~a}o Proposta}}{16}{chapter.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.1}Dispositivo Raspberry PI}{25}{section.6.1}
+\contentsline {section}{\numberline {5.1}Requisitos do Sistema}{16}{section.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.2}Sistema de Controle}{26}{section.6.2}
+\contentsline {section}{\numberline {5.2}Alimenta\IeC {\c c}\IeC {\~a}o}{17}{section.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.2.1}Solu\IeC {\c c}\IeC {\~a}o 1: Atuador}{26}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {5.2.1}Motor}{17}{subsection.5.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.2.2}Solu\IeC {\c c}\IeC {\~a}o 2: Bra\IeC {\c c}o Rob\IeC {\'o}tico}{26}{subsection.6.2.2}
+\contentsline {section}{\numberline {5.3}Estrutura}{20}{section.5.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {6.2.2.1}Movimenta\IeC {\c c}\IeC {\~a}o do Bra\IeC {\c c}o Rob\IeC {\'o}tico}{26}{subsubsection.6.2.2.1}
+\contentsline {subsection}{\numberline {5.3.1}Conceito}{20}{subsection.5.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {6.2.2.2}Servo Motor}{27}{subsubsection.6.2.2.2}
+\contentsline {subsection}{\numberline {5.3.2}Materiais}{21}{subsection.5.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {6.2.2.3}Modul\IeC {\c c}ao PWM}{27}{subsubsection.6.2.2.3}
+\contentsline {subsection}{\numberline {5.3.3}Descri\IeC {\c c}\IeC {\~a}o do produto}{22}{subsection.5.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {6.2.2.4}Arduino MEGA}{28}{subsubsection.6.2.2.4}
+\contentsline {section}{\numberline {5.4}Sistema Eletr\IeC {\^o}nico}{24}{section.5.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.2.3}Solu\IeC {\c c}\IeC {\~a}o Escolhida}{29}{subsection.6.2.3}
+\contentsline {subsection}{\numberline {5.4.1}Dispositivo Raspberry PI}{24}{subsection.5.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.3}Sistema de Comunica\IeC {\c c}\IeC {\~a}o}{29}{section.6.3}
+\contentsline {subsection}{\numberline {5.4.2}Sistema de Controle}{26}{subsection.5.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.3.1}Comunica\IeC {\c c}\IeC {\~a}o UART}{29}{subsection.6.3.1}
+\contentsline {subsection}{\numberline {5.4.3}Sistema de Comunica\IeC {\c c}\IeC {\~a}o}{30}{subsection.5.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.3.2}Leitura do C\IeC {\'o}digo de Barras}{29}{subsection.6.3.2}
+\contentsline {section}{\numberline {5.5}Sistema Embarcado e Aplica\IeC {\c c}\IeC {\~a}o Web}{31}{section.5.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.4}Refer\IeC {\^e}ncia}{29}{section.6.4}
+\contentsline {subsection}{\numberline {5.5.1}Documento de Vis\IeC {\~a}o}{31}{subsection.5.5.1}
 \defcounter {refsection}{0}\relax 
-\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {subsubsection}{\numberline {5.5.1.1}Posicionamento}{31}{subsubsection.5.5.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\chapternumberline {7}\MakeTextUppercase {Documento de Vis\IeC {\~a}o}}{31}{chapter.7}
+\contentsline {paragraph}{\numberline {5.5.1.1.1}Descri\IeC {\c c}\IeC {\~a}o dos Problemas}{31}{paragraph.5.5.1.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.1}Introdu\IeC {\c c}\IeC {\~a}o}{31}{section.7.1}
+\contentsline {subsubsection}{\numberline {5.5.1.2}Descri\IeC {\c c}\IeC {\~o}es dos Usu\IeC {\'a}rios}{33}{subsubsection.5.5.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.2}Posicionamento}{31}{section.7.2}
+\contentsline {paragraph}{\numberline {5.5.1.2.1}Resumo dos Usu\IeC {\'a}rios}{33}{paragraph.5.5.1.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.3}Descri\IeC {\c c}\IeC {\~a}o dos Problemas}{31}{section.7.3}
+\contentsline {paragraph}{\numberline {5.5.1.2.2}Principais Necessidades dos Usu\IeC {\'a}rios}{33}{paragraph.5.5.1.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.4}Descri\IeC {\c c}\IeC {\~o}es dos Usu\IeC {\'a}rios}{32}{section.7.4}
+\contentsline {subsubsection}{\numberline {5.5.1.3}Vis\IeC {\~a}o Geral do Produto}{34}{subsubsection.5.5.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.4.1}Resumo dos Usu\IeC {\'a}rios}{32}{subsection.7.4.1}
+\contentsline {paragraph}{\numberline {5.5.1.3.1}Perspectiva do Produto}{34}{paragraph.5.5.1.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.4.2}Principais Necessidades dos Usu\IeC {\'a}rios}{33}{subsection.7.4.2}
+\contentsline {subsection}{\numberline {5.5.2}Documento de Arquitetura de Software}{35}{subsection.5.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.5}Vis\IeC {\~a}o Geral do Produto}{34}{section.7.5}
+\contentsline {subsubsection}{\numberline {5.5.2.1}Representa\IeC {\c c}\IeC {\~a}o Arquitetural}{35}{subsubsection.5.5.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.5.1}Perspectiva do Produto}{34}{subsection.7.5.1}
+\contentsline {subsubsection}{\numberline {5.5.2.2}Metas e Restri\IeC {\c c}\IeC {\~o}es da Arquitetura}{36}{subsubsection.5.5.2.2}
 \defcounter {refsection}{0}\relax 
-\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {subsubsection}{\numberline {5.5.2.3}Vis\IeC {\~a}o L\IeC {\'o}gica}{37}{subsubsection.5.5.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\chapternumberline {8}\MakeTextUppercase {Documento de Arquitetura de Software}}{35}{chapter.8}
+\contentsline {subsection}{\numberline {5.5.3}Modelo de Caso de Uso}{38}{subsection.5.5.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.1}Representa\IeC {\c c}\IeC {\~a}o Arquitetural}{35}{section.8.1}
+\contentsline {subsubsection}{\numberline {5.5.3.1}Diagrama de Caso de Uso}{38}{subsubsection.5.5.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.2}Metas e Restri\IeC {\c c}\IeC {\~o}es da Arquitetura}{36}{section.8.2}
+\contentsline {subsubsection}{\numberline {5.5.3.2}Descri\IeC {\c c}\IeC {\~a}o de Casos de Uso}{38}{subsubsection.5.5.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.3}Vis\IeC {\~a}o L\IeC {\'o}gica}{37}{section.8.3}
-\defcounter {refsection}{0}\relax 
-\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\chapternumberline {9}\MakeTextUppercase {Modelo de Caso de Uso}}{39}{chapter.9}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {9.1}Diagrama de Caso de Uso}{39}{section.9.1}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {9.2}Descri\IeC {\c c}\IeC {\~a}o de Casos de Uso}{40}{section.9.2}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.2.1}Consultar Agendamento}{40}{subsection.9.2.1}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.2.2}Consultar Livro}{40}{subsection.9.2.2}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.2.3}Criar Agendamento}{40}{subsection.9.2.3}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.2.4}Manter Livro}{40}{subsection.9.2.4}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.2.5}Realizar Login}{40}{subsection.9.2.5}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.2.6}Manter Usu\IeC {\'a}rio}{40}{subsection.9.2.6}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.2.7}Emprestar Livro}{40}{subsection.9.2.7}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.2.8}Devolver Livro}{40}{subsection.9.2.8}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.2.9}Remover Agendamento}{41}{subsection.9.2.9}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.2.10}Buscar Livro}{41}{subsection.9.2.10}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {9.2.11}Guardar Livro}{41}{subsection.9.2.11}
+\contentsline {subsection}{\numberline {5.5.4}Prot\IeC {\'o}tipos}{40}{subsection.5.5.4}
 \defcounter {refsection}{0}\relax 
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\chapternumberline {10}\MakeTextUppercase {Prot\IeC {\'o}tipos}}{42}{chapter.10}
+\contentsline {chapter}{\chapternumberline {6}\MakeTextUppercase {Plano de Gerenciamento de Custos}}{46}{chapter.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.1}Estimativa de Custos}{46}{section.6.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.2}Arrecada\IeC {\c c}\IeC {\~a}o de Verbas}{46}{section.6.2}
 \defcounter {refsection}{0}\relax 
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\chapternumberline {11}\MakeTextUppercase {Plano de Gerenciamento de Custos}}{47}{chapter.11}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {11.1}Estimativa de Custos}{47}{section.11.1}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {11.2}Arrecada\IeC {\c c}\IeC {\~a}o de Verbas}{47}{section.11.2}
+\contentsline {chapter}{\chapternumberline {7}\MakeTextUppercase {Gerenciamento dos Riscos}}{48}{chapter.7}
 \defcounter {refsection}{0}\relax 
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\chapternumberline {12}\MakeTextUppercase {Gerenciamento dos Riscos}}{49}{chapter.12}
+\contentsline {chapter}{\chapternumberline {8}\MakeTextUppercase {Gerenciamento da Comunica\IeC {\c c}\IeC {\~a}o e Vers\IeC {\~o}es de Artefatos}}{50}{chapter.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8.1}Ferramentas de Comunica\IeC {\c c}\IeC {\~a}o}{50}{section.8.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8.2}Reuni\IeC {\~o}es}{50}{section.8.2}
 \defcounter {refsection}{0}\relax 
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\chapternumberline {13}\MakeTextUppercase {Gerenciamento da Comunica\IeC {\c c}\IeC {\~a}o e Vers\IeC {\~o}es de Artefatos}}{51}{chapter.13}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.1}Ferramentas de Comunica\IeC {\c c}\IeC {\~a}o}{51}{section.13.1}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {13.2}Reuni\IeC {\~o}es}{51}{section.13.2}
+\contentsline {chapter}{\chapternumberline {9}\MakeTextUppercase {Considera\IeC {\c c}\IeC {\~o}es Finais}}{51}{chapter.9}
 \defcounter {refsection}{0}\relax 
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\chapternumberline {14}\MakeTextUppercase {Considera\IeC {\c c}\IeC {\~o}es Finais}}{52}{chapter.14}
+\contentsline {chapter}{\chapternumberline {10}\MakeTextUppercase {Anexos}}{52}{chapter.10}
 \defcounter {refsection}{0}\relax 
-\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\chapternumberline {15}\MakeTextUppercase {Anexos}}{53}{chapter.15}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {15.1}Anexo A - Cronograma}{53}{section.15.1}
+\contentsline {section}{\numberline {10.1}Anexo A - Cronograma}{52}{section.10.1}
