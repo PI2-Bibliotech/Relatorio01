@@ -2048,17 +2048,17 @@
   <bcf:bibdata section="0">
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1">pmbok2004</bcf:citekey>
-    <bcf:citekey order="2">pmbok2004</bcf:citekey>
-    <bcf:citekey order="3">pmbok2004</bcf:citekey>
-    <bcf:citekey order="4">pmbok2004</bcf:citekey>
-    <bcf:citekey order="5">melo2014</bcf:citekey>
-    <bcf:citekey order="6">santana2015</bcf:citekey>
+    <bcf:citekey order="1">melo2014</bcf:citekey>
+    <bcf:citekey order="2">santana2015</bcf:citekey>
+    <bcf:citekey order="3">fraga2011</bcf:citekey>
+    <bcf:citekey order="4">santana2015</bcf:citekey>
+    <bcf:citekey order="5">santana2015</bcf:citekey>
+    <bcf:citekey order="6">fraga2011</bcf:citekey>
     <bcf:citekey order="7">fraga2011</bcf:citekey>
-    <bcf:citekey order="8">santana2015</bcf:citekey>
-    <bcf:citekey order="9">santana2015</bcf:citekey>
-    <bcf:citekey order="10">fraga2011</bcf:citekey>
-    <bcf:citekey order="11">fraga2011</bcf:citekey>
-    <bcf:citekey order="12">fraga2011</bcf:citekey>
+    <bcf:citekey order="8">fraga2011</bcf:citekey>
+    <bcf:citekey order="9">pmbok2004</bcf:citekey>
+    <bcf:citekey order="10">pmbok2004</bcf:citekey>
+    <bcf:citekey order="11">pmbok2004</bcf:citekey>
+    <bcf:citekey order="12">pmbok2004</bcf:citekey>
   </bcf:section>
 </bcf:controlfile>
